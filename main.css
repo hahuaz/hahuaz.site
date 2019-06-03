@@ -63,7 +63,7 @@ header p {
 /* leaf */
 
 .leaf {
-  height: 180px;
+  height: 200px;
   background-image: url("./img/back-leaf.png");
   background-repeat: no-repeat;
   background-position: right top;
@@ -471,14 +471,6 @@ footer i {
 }
 footer span {
   font-weight: bold;
-}
-
-/* > laptop */
-@media (min-width: 1024px) {
-  /* megaphone */
-  .megaphone {
-    margin-top: 30px;
-  }
 }
 
 /* tablet */
