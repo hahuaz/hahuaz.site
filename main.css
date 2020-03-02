@@ -608,3 +608,9 @@ footer span {
     margin: 0 auto;
   }
 }
+/* for big screen!must do code refactoring */
+@media (min-width: 1384px) {
+ .leaf {
+   height:300px
+ }
+}
