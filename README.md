@@ -1,1 +1,1 @@
-# hahuaz.site
+https://hahuaz.github.io/hahuaz.site/
